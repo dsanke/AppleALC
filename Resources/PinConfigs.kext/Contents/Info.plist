@@ -4246,6 +4246,24 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>Realtek ALC283 for Toshiba Portege R30-A Dynabook R734</string>
+					<key>CodecID</key>
+					<integer>283902595</integer>
+					<key>ConfigData</key>
+					<data>AXccEAF3HQABdx4QAXcfQAIXHCACFx0QAhceIQIXHwACFwwCAZccMAGXHRABlx6gAZcfkAEnHEABJx0AAScegAEnH5ABRxxQAUcdAAFHHhcBRx+QAUcMAgHXHGAB1x2QAdce5wHXH0A=</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>30</integer>
+					<key>WakeConfigData</key>
+					<data>AhcMAgFHDAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>Realtek ALC283 for ThinkCentre M93z 10AF ALC283 by giesteira </string>
 					<key>CodecID</key>
 					<integer>283902595</integer>

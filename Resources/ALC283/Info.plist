@@ -54,6 +54,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>Realtek ALC283 for Toshiba Portege R30-A Dynabook R734</string>
+				<key>Id</key>
+				<integer>30</integer>
+				<key>Path</key>
+				<string>layout30.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Realtek ALC283 for ThinkCentre M93z 10AF ALC283 by giesteira</string>
 				<key>Id</key>
 				<integer>44</integer>
@@ -142,6 +150,14 @@
 				<integer>15</integer>
 				<key>Path</key>
 				<string>Platforms15.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Realtek ALC283 for Toshiba Portege R30-A Dynabook R734</string>
+				<key>Id</key>
+				<integer>30</integer>
+				<key>Path</key>
+				<string>Platforms30.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
