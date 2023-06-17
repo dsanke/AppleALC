@@ -3382,6 +3382,22 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>ALC269VB</string>
+					<key>CodecID</key>
+					<integer>283902569</integer>
+					<key>Comment</key>
+					<string>ALC269VB for Morefine S500+</string>
+					<key>ConfigData</key>
+					<data>ASccEAEnHQABJx4QAScfQAGHHCABhx2QAYceoAGHH5AB1xwwAdcdEAHXHkQB1x9AAhccQAIXHUACFx4hAhcfAA==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>109</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>ALC269</string>
 					<key>CodecID</key>
 					<integer>283902569</integer>

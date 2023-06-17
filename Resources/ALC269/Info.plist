@@ -390,6 +390,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>ALC269VB for Morefine S500+</string>
+				<key>Id</key>
+				<integer>109</integer>
+				<key>Path</key>
+				<string>layout109.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>ALC269 for minisforum NAG6 by DalianSky</string>
 				<key>Id</key>
 				<integer>111</integer>
@@ -830,6 +838,14 @@
 				<integer>100</integer>
 				<key>Path</key>
 				<string>Platforms100.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ALC269VB for Morefine S500+</string>
+				<key>Id</key>
+				<integer>109</integer>
+				<key>Path</key>
+				<string>Platforms109.xml.zlib</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
