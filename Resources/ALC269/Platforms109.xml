@@ -5,13 +5,13 @@
 			<key>DeviceID</key>
 			<integer>0</integer>
 			<key>DeviceType</key>
-			<string>Headphone</string>
+			<string>Microphone</string>
 		</dict>
 		<dict>
 			<key>DeviceID</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>DeviceType</key>
-			<string>Microphone</string>
+			<string>Headphone</string>
 		</dict>
 	</array>
 	<key>PathMaps</key>
@@ -67,6 +67,8 @@
 									<key>VolumeInputAmp</key>
 									<true/>
 								</dict>
+								<key>Boost</key>
+								<integer>3</integer>
 								<key>NodeID</key>
 								<integer>24</integer>
 							</dict>
