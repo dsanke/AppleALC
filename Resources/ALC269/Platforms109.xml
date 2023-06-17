@@ -82,7 +82,7 @@
 								<key>Amp</key>
 								<dict>
 									<key>PublishMute</key>
-									<false/>
+									<true/>
 									<key>PublishVolume</key>
 									<false/>
 								</dict>
@@ -93,7 +93,7 @@
 								<key>Amp</key>
 								<dict>
 									<key>PublishMute</key>
-									<false/>
+									<true/>
 									<key>PublishVolume</key>
 									<false/>
 								</dict>
@@ -119,7 +119,7 @@
 										</dict>
 									</array>
 									<key>PublishMute</key>
-									<true/>
+									<false/>
 									<key>PublishVolume</key>
 									<true/>
 								</dict>
